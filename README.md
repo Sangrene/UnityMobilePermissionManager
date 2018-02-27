@@ -29,7 +29,9 @@ Request a permission, needing the gameobject and the callback function name as p
     private void PermissionCallback(int allowed){
 	    // 1 if allowed, 0 otherwise
     }
-
+Supported permissions :
+ - CAMERA
+ - ... more to come
 
 
 
